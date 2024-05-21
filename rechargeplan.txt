@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html land="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,initial scale=1.0">
+	<title>Mobile recharge plan</title>
+	<link rel="stylesheet" href="planstyle.css">
+</head>
+<body>
+	<header>
+		<h1>Mobile recharge pricing</h1>
+        <p>select the best recharge plan for you</p>
+    </header>
+    <main>
+    	<section class="pricing">
+    		<div class="price-packs">
+    			<h2>Popular plans</h2>
+                <p class="price">&#8377 299<span>/month</span></p>
+    				<ul>
+    					<li>Unlimited calls</li>
+    					<li>SMS:100/day</li>
+    					<li>2GB data</li>
+                        <li>28days validity</li>
+    				</ul>
+                <p class="price">&#8377 19<span>/month</span></p>
+    				<ul>
+    					<li>1.5GB data</li>
+    					<li>base plan</li>
+    					<li>valid only one day</li>
+    				</ul> 				
+    			<button> choose popular plan</button>
+    		</div>
+            <br><br><br></t>
+    		<div class="price-packs popular">
+    		    <h2>Cricket pack</h2>
+                <p class="price">&#8377 50<span>/month</span></p>
+    		    <ul>
+    		    	<li>unlimited data</li>
+    		    	<li>1 day validity</li>
+    		    	<li>25gb high speed data thereafter unlimited at 64kbps</li>
+    		    </ul>
+                <p class="price">&#8377 29<span>/month</span></p>
+    		    <ul>
+    		    	<li>2.5GB data</li>
+    		    	<li>base plan validity</li>
+    		    	<li>for users with an active validity plan</li>
+    		    </ul>	
+    		    <button>choose cricket plan</button>
+    		</div>
+            <br><br><br></t>
+    		<div class="price-packs">
+    		    <h2>Smart phone</h2>
+                <p class="price">&#8377 749<span>/month</span></p>
+    		    <ul>	
+    		        <li>2GB/day+20GB</li>
+    		        <li>90 days validity</li>
+    		        <li>unlimited call/SMS:100/day</li>
+    		    </ul>
+                <p class="price">&#8377 239<span>/month</span></p>
+                <ul>
+                    <li>1.5GB/day</li>
+                    <li>28days validity</li>
+                    <li>unlimited calls/SMS:100/day</li>
+                </ul> 
+    		    <button>choose smart phone</button>
+            </div>
+    	</section>
+    </main>
+</body>
+</html>
+
